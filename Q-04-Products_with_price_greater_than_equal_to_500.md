@@ -1,6 +1,6 @@
 # Tasks
 
-## Q4. Find the product price which are between 400 to 800
+## Q4. List the four product which are greater than 500 in price
 
 ### Query Command
 

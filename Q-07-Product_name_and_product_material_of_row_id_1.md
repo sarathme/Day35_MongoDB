@@ -1,6 +1,6 @@
 # Tasks
 
-## Q7. Find the product with a row id of 10
+## Q7. Find only the product name and product material
 
 ### Query Command
 
